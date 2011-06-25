@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>org-openide-util</artifactId>
-  <version>8.6.2</version>
+  <version>8.6.2-SNAPSHOT</version>
 
   <name>${project.artifactId}</name>
   <packaging>jar</packaging>

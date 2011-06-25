@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>batik-all</artifactId>
-  <version>1.8pre-r1084380</version>
+  <version>1.8pre-r1084380-SNAPSHOT</version>
 
   <name>${project.artifactId}</name>
   <packaging>jar</packaging>
