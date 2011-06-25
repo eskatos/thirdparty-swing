@@ -36,6 +36,9 @@
 
   <modules>
     <module>batik-all</module>
+    <module>org-netbeans-api-visual</module>
+    <module>org-openide-util</module>
+    <module>org-openide-util-lookup</module>
   </modules>
 
 </project>

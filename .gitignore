@@ -1,2 +1,5 @@
 batik-all/target
 target
+org-netbeans-api-visual/target
+org-openide-util/target
+org-openide-util-lookup/target
